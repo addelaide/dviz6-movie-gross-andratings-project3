@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> bd56c2dc5a27b4b2ec165f66eecd0e064d27e505
 # Predicting Movie Performance Using IMDb & Box Office Data
 
 ## Project Overview
