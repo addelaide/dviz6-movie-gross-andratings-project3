@@ -88,6 +88,7 @@ The datasets were merged and cleaned to support analysis of performance drivers.
 - Genre significantly influences financial performance  
 - Runtime shows a weak but noticeable effect  
 
+![alt text](<Final Data Visualized.png>)
 ---
 
 ## Business Impact
